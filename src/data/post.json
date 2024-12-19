@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Premier Post",
+        "content": "Voici le contenu du premier post."
+    },
+    {
+        "id": 2,
+        "title": "Deuxième Post",
+        "content": "Voici le contenu du deuxième post."
+    }
+]
